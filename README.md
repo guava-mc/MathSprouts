@@ -26,17 +26,32 @@ In its current state, parents will have to mark when a task is completed and whe
 
 ### References
 
-[1] \cite{Libertus2011}; \
-[2] \cite{Craig2000})\
-[3]\cite{Ramani2014}; \
-[4] \cite{Greenes2004}; \
-[5] \cite{Clements2016}; \
-[6] \cite{Siegler1982} \
-[7] Schacter2016 \
-[8] Ramani2008 \
-[9] Aronin2013 \
-[10] Ming-Te Wang & Jessica L. Degol \
-[11] Ginsburg2008 \
-[12] Practice2000 \
-[13] Dweck \
-[14] Vgotsky
+
+[1] Libertus, Melissa E., Feigenson, Lisa, and Halberda, Justin (2011). “Preschool acuity of the approximate number system correlates with school math
+ability”. In: Developmental Science 14.6, pp. 1292–1300. issn: 1363755X. doi: 10.1111/j.1467-7687.2011.01080.x.
+
+[2] Craig, Dorothy V (2000). Computers and Young Children Technology, Math, and the Early Learner: Models for Learning. Tech. rep. 3.
+
+[3] Ramani, Geetha B and Siegler, Robert S (2014). “How Informal Learning Activities Can Promote Children’s Numerical Knowledge”. In: The oxford handbook of numerical cognition, pp. 1135–1154. doi: 10.1093/oxfordhb/ 9780199642342.013.012.
+
+[4] Greenes, Carole, Ginsburg, Herbert P., and Balfanz, Robert (2004). “Big Math for Little Kids”. In: Early Childhood Research Quarterly 19.1, pp. 159– 166. issn: 08852006. doi: 10.1016/j.ecresq.2004.01.010.
+
+[5] Clements, Douglas H and Sarama, Julie (2016). Math, Science, and Technol- ogy in the Early Grades. Tech. rep. 2, p. 75. url: www.futureofchildren. org.
+
+[6] Siegler, Robert S and Robinson, Mitchell (1982). “The Development of Nu- merical Understandings”. In: Advances in child development and behavior 16, pp. 241–312.
+
+[7] Schacter, John and Jo, Booil (2016). “Improving low-income preschool- ers mathematics achievement with Math Shelf, a preschool tablet com- puter curriculum”. In: Computers in Human Behavior 55, pp. 223–229. issn: 07475632. doi: 10.1016/j.chb.2015.09.013.
+
+[8] Ramani, Geetha B and Siegler, Robert S (2008). “Promoting Broad and Stable Improvements in Low-Income Children’s Numerical Knowledge Through Playing Number Board Games”. In: Child Development 79.2, pp. 375– 394.
+
+[9] Aronin, Sara and Floyd, Kim K (2013). “Using an iPad in Inclusive Preschool Classrooms to Introduce STEM Concepts STEM Education”. In: Teaching Exceptional Children 45.4, pp. 34–39.
+
+[10] Wang, Ming Te and Degol, Jessica L. (2017). “Gender Gap in Science, Tech- nology, Engineering, and Mathematics (STEM): Current Knowledge, Impli- cations for Practice, Policy, and Future Directions”. In: Educational Psychol- ogy Review 29.1, pp. 119–140. issn: 1573336X. doi: 10.1007/s10648-015- 9355-x.
+
+[11] Ginsburg, Herbert P., Lee, Joon Sun, and Boyd, Judi Stevenson (2008). “Mathematics Education for Young Children: What It is and How to Pro- mote It”. In: Social Policy Report 22.1, pp. 1–24. issn: 2379-3988. doi: 10.1002/j.2379-3988.2008.tb00054.x.
+
+[12] Committee on Developments in the Science of Learning and Committee on Learning Research and Educational Practice (2000). “How children learn”. In: How People Learn : Brain, Mind, Experience, and School: Expanded Edition. 2nd ed. National Academy Press. Chap. 4, pp. 79–113. doi: 10.4324/ 9781351039789-1.
+
+[13] Dweck, Carol S (2008). Mindset: The new psychology of success. Random House Digital, Inc.
+
+[14] Kozulin, A, Gindis, B, Ageyev, V, and Miller, S (2003). “The zone of prox- imal development”. In: Vygotsky’s educational theory in cultural context 1.2, pp. 39–64.
