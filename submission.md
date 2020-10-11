@@ -32,7 +32,7 @@ An interactive graph that represents a learner's personalized journey through ma
 https://github.com/mcole18/MathSprouts/
 
 ### write up of your project so you can tell us what you did!
-I created a proof of concept web application that lays the groundwork for a tool that can enrich relationships between caregivers and their children, can teach both parents and kids metacognitive skills, can prepare kids for formal math education and future careers in STEM, can disuade gender biases, increase diversity, and teach the growth mindset.
+I created a proof of concept web application that lays the groundwork for a tool that can enrich relationships between caregivers and their children, can teach both parents and kids metacognitive skills, can prepare kids for formal math education and future careers in STEM, can combat gender biases, increase diversity, and teach the growth mindset.
 
 ### breathe! 
 :zzz:
