@@ -22,6 +22,7 @@ In its current state, parents will have to mark when a task is completed and whe
 - Add virtual agent to assist parents and children while playing
 - Add edge weight prediction algorithm to make learning paths more adaptive and personalized
 - Add shortest path visualization for parents
+- Add more conventional visualizations that are less coupled to being comfortable with math/graphs that abstract complexities away
 - Improve UX 
 
 ### References
